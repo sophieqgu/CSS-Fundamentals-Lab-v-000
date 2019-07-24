@@ -2,4 +2,29 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
+  text-align: center
+}
+
+nav a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: yellow
+}
+
+#featured-property p {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#featured-property figure {
+  display: block;
+  font-size: 18px;
+}
+
+#details div {
+  display: block;
+  float: left;
+  width: 25%;
+  background-color: red
 }
