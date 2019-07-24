@@ -25,4 +25,9 @@ nav {
 #details {
   display: block;
   float: left;
+  background-color: red
+}
+
+#details div {
+  width: 25%;
 }
