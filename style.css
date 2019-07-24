@@ -22,12 +22,9 @@ nav a {
   font-size: 18px;
 }
 
-#details {
+#details div {
   display: block;
   float: left;
-  background-color: red
-}
-
-#details div {
   width: 25%;
+  background-color: red
 }
