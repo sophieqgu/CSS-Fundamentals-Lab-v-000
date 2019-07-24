@@ -9,16 +9,16 @@ figure {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  font-size: 10px
+  font-size: 10px;
   text-align: center
 }
 
 nav {
-  padding: 0px, 10px
+  padding: 0px, 10px;
   background-color: yellow
 }
 
-section#featuredproperty p {
+section#featured-property p {
   width: 800px;
   text-align: center
 }
