@@ -5,8 +5,6 @@ body {
   text-align: center
 }
 
-
-
 nav a {
   padding-left: 10px;
   padding-right: 10px;
@@ -19,7 +17,7 @@ nav a {
   margin-right: auto;
 }
 
-#fitured-property figure {
+#featured-property figure {
   display: block;
   font-size: 18px;
 }
