@@ -9,6 +9,11 @@ figure {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  font-size: 10px
+  text-align: center
 }
 
 nav {
+  padding: 0px, 10px
+  background-color: yellow
+}
