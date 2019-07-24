@@ -17,3 +17,8 @@ nav {
   padding: 0px, 10px
   background-color: yellow
 }
+
+section#featuredproperty p {
+  width: 800px;
+  text-align: center
+}
